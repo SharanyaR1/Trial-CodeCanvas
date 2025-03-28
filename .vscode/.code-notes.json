@@ -1,0 +1,26 @@
+{
+  "oops/main.go::9": {
+    "text": "Hi Sohan",
+    "category": "BUG"
+  },
+  "oops/main.go::10": {
+    "text": "I love you,edited",
+    "category": "NOTE"
+  },
+  "oops/main.go::12": {
+    "text": "wanna have sx?",
+    "category": "CHUTU"
+  },
+  "main.go::11": {
+    "text": "Weekend",
+    "category": "IDEA"
+  },
+  "main.go::12": {
+    "text": "you kiss me",
+    "category": "LIFE"
+  },
+  "go copy.mod::0": {
+    "text": "hmmmmmmmmmm",
+    "category": "WARN"
+  }
+}
