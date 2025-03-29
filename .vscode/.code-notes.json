@@ -7,20 +7,32 @@
     "text": "I love you,edited",
     "category": "NOTE"
   },
-  "oops/main.go::12": {
-    "text": "wanna have sx?",
-    "category": "CHUTU"
-  },
   "main.go::11": {
     "text": "Weekend",
     "category": "IDEA"
   },
-  "main.go::12": {
-    "text": "you kiss me",
-    "category": "LIFE"
-  },
   "go copy.mod::0": {
     "text": "hmmmmmmmmmm",
     "category": "WARN"
+  },
+  "oops/main.go::12": {
+    "text": "virat",
+    "category": "NOTE"
+  },
+  "oops/main.go::17": {
+    "text": "hazelwood",
+    "category": "WOOD"
+  },
+  "main.go::14": {
+    "text": "rachin",
+    "category": "WARN"
+  },
+  "main.go::8": {
+    "text": "rcb",
+    "category": "TIMDAVID"
+  },
+  "go.mod::2": {
+    "text": "cskMf",
+    "category": "BUG"
   }
 }

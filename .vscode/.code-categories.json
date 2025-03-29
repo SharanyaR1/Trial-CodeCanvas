@@ -43,8 +43,8 @@
       "color": "#00FF00"
     },
     {
-      "id": "CHUTU",
-      "label": "Chutu",
+      "id": "WOOD",
+      "label": "wood",
       "color": "#ff0000"
     }
   ],
@@ -70,8 +70,8 @@
       "color": "#00FF00"
     },
     {
-      "id": "LIFE",
-      "label": "Life",
+      "id": "TIMDAVID",
+      "label": "timDavid",
       "color": "#ffcdcd"
     }
   ]
